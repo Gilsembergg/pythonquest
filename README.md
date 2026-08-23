@@ -11,6 +11,6 @@ Guia interativo de introdução ao Python para iniciantes.
 
 Cada capítulo possui uma breve explicação, exemplos e exercícios para praticar.
 
-## 🎯 Objetivo
+## Status do projeto
 
-Projeto desenvolvido para conclusão da trilha de **Git e GitHub — TIC/UCB**, utilizando Markdown, Git e GitHub para criação e organização do guia.
+Este projeto está sendo desenvolvido como parte do curso UCB Tic Trilhas.
